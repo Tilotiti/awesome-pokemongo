@@ -152,6 +152,7 @@ Please take a moment to read over the [contribution guidelines](https://github.c
 * [MMO Server Status](http://www.mmoserverstatus.com/pokemon_go) - MMO server status for PokemonGO.
 * [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
 * [Pokemon Go Server status](https://pokemongostatus.org) - Pokemon Go server status updated every minute.
+* [Poke Rank](https://www.poke-rank.com) - Pokemon Go ranking service, create groups, measure up to your friends.
 
 #### Development Resources
 
